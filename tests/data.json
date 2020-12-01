@@ -1,0 +1,51 @@
+{
+	"software_version": "NAMF-2020-33",
+	"age": "40",
+	"measurements": "20773",
+	"sensordatavalues": [
+		{
+			"value_type": "SDS_P1",
+			"value": "65.17"
+		},
+		{
+			"value_type": "SDS_P2",
+			"value": "36.38"
+		},
+		{
+			"value_type": "BME280_temperature",
+			"value": "2.39"
+		},
+		{
+			"value_type": "BME280_humidity",
+			"value": "74.49"
+		},
+		{
+			"value_type": "BME280_pressure",
+			"value": "99504.16"
+		},
+		{
+			"value_type": "HECA_temperature",
+			"value": "6.46"
+		},
+		{
+			"value_type": "HECA_humidity",
+			"value": "59.33"
+		},
+		{
+			"value_type": "samples",
+			"value": "52164"
+		},
+		{
+			"value_type": "min_micro",
+			"value": "1098"
+		},
+		{
+			"value_type": "max_micro",
+			"value": "114963"
+		},
+		{
+			"value_type": "signal",
+			"value": "-66"
+		}
+	]
+}

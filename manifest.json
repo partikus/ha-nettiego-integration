@@ -1,0 +1,11 @@
+{
+  "domain": "nettiego",
+  "name": "Nettiego NAMF",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/nettiego",
+  "requirements": [],
+  "dependencies": {},
+  "codeowners": [
+    "@partikus"
+  ]
+}
